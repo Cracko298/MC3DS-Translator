@@ -6,6 +6,12 @@
 - Auto translate from any language in-game to any other language if the language-code is provided.
 - Not the best translation tool, but is far faster and generally gets the job done for Translating Text.
 
+## Usage:
+```
+py main.py [inputBlangFile] [supportedISOCode]
+```
+
+## ISO Language Codes:
 ```
 Supported Language ISO Codes:
   af: Afrikaans
